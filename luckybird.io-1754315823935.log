@@ -1,0 +1,177 @@
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:15 🔍 Enhanced WebSocket Analyzer: Script activated
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:260 🚀 Enhanced WebSocket Analyzer ready! Use window.wsAnalyzer for advanced features.
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:228 🔌 WebSocket connection established: wss://luckybird.io:443/mqtt
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+cocos2d-js-v3.13-new1.js:40 Cocos2d-JS v3.13
+plinko_m:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 617d4797... {detail: 'LISK4Il1S0a4xtpQC6Hw8BqojBKsM2yTekhsQlTEWTZ73BCC2%…pkMKd5fY1ibV03nKNSnbBR2lfzEO%2F667lwIZb03HEg0CLyN', iv: '617d4797100230786e0ee4f9a96b14e4'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 0f42d7a6... {detail: 'AOiNjXQYkBhtjdKRvK6g46Nfd9cSOBiJCmv5bd61jVWsy%2BcY…orfLUeKnZmXf7WIl12ATIWMyLnpce%2FOKC1aDiqaP4mdg%3D', iv: '0f42d7a64f7535d2b9665f9027d7f6cb'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 46abe62d... {detail: 'L6pZUb24lcrPrJZM%2FtNTZ8FUSKUPiu78nCz2tBWn%2FNgZmi…lcTBxoYkbYgtiPyoVYO1ukTzYlmGmocaTw3u4t1nDug%3D%3D', iv: '46abe62d29ca2f18867fa331ff92e8e5'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: d9df137d... {detail: '%2FT9bfdc%2BWoOWSzQNa3dE0zF%2BRUsFMjnbap8asSEl2JcF…%2FN3BD0l4q3c4vW8yDWriMoL2m7ijvaJNOOVp2ZjoA%3D%3D', iv: 'd9df137db42404f3c3b3ce59049fb072'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: eb3913a4... {detail: '3pwpvPDi5c2HVXIpgrl8EOgMg5bn3UIUTiM%2FnwcP5MAWbtxt…EA4w8kSlxVSA5WrrlgShr8FOiVkeQpPI411a7ARoGYGNDk%3D', iv: 'eb3913a432a0ebdfec37b83167c7e5ad'}
+frame-modern.d8c9e763.js:1 [Intercom] Launcher is disabled in settings or current page does not match display conditions
+chunk-vendors.4b77bcb7.js:232 Trying to start timer when countdown already at 0
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3513 (Bet Confirmation) {code: 3513, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Bet Confirmation', dataSize: 9053, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3555 (Balance Update) {code: 3555, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Balance Update', dataSize: 2441, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3012 (Unknown) {code: 3012, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Unknown', dataSize: 1562, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3944 (Unknown) {code: 3944, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Unknown', dataSize: 273, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3409 (Unknown) {code: 3409, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Unknown', dataSize: 57, frequency: 1}
+chunk-vendors.4b77bcb7.js:344 TypeError: Cannot read properties of null (reading 'balanceNode')
+    at userInfo.balances (5978.592ebd94.js:1:56572)
+    at $n (chunk-vendors.4b77bcb7.js:344:24712)
+    at t.run (chunk-vendors.4b77bcb7.js:344:29147)
+    at Ji (chunk-vendors.4b77bcb7.js:344:34261)
+    at Array.<anonymous> (chunk-vendors.4b77bcb7.js:344:25805)
+    at Gn (chunk-vendors.4b77bcb7.js:344:25200)
+Vn @ chunk-vendors.4b77bcb7.js:344
+zn @ chunk-vendors.4b77bcb7.js:344
+jn @ chunk-vendors.4b77bcb7.js:344
+$n @ chunk-vendors.4b77bcb7.js:344
+t.run @ chunk-vendors.4b77bcb7.js:344
+Ji @ chunk-vendors.4b77bcb7.js:344
+(anonymous) @ chunk-vendors.4b77bcb7.js:344
+Gn @ chunk-vendors.4b77bcb7.js:344
+Promise.then
+Hn @ chunk-vendors.4b77bcb7.js:344
+Jn @ chunk-vendors.4b77bcb7.js:344
+nr @ chunk-vendors.4b77bcb7.js:344
+t.update @ chunk-vendors.4b77bcb7.js:344
+t.notify @ chunk-vendors.4b77bcb7.js:344
+set @ chunk-vendors.4b77bcb7.js:344
+IN_LOGIN @ app.8389e4f2.js:1
+(anonymous) @ chunk-vendors.4b77bcb7.js:350
+(anonymous) @ chunk-vendors.4b77bcb7.js:350
+(anonymous) @ chunk-vendors.4b77bcb7.js:350
+y._withCommit @ chunk-vendors.4b77bcb7.js:350
+y.commit @ chunk-vendors.4b77bcb7.js:350
+commit @ chunk-vendors.4b77bcb7.js:350
+N.forEach.n.<computed> @ chunk-vendors.4b77bcb7.js:350
+(anonymous) @ app.8389e4f2.js:1
+p @ app.8389e4f2.js:1
+setInterval
+m @ app.8389e4f2.js:1
+onSuccess @ app.8389e4f2.js:1
+e.372323._i.MQTT.S._handleMessage @ app.8389e4f2.js:1
+e.372323._i.MQTT.S._on_socket_message @ app.8389e4f2.js:1
+e.372323._i.MQTT.a @ app.8389e4f2.js:1
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 65bd1eac... {detail: '1tlGzNE3B5p0zC5Dm8hdvFFGagTNdBatsYc3Jc5GN2r80YD%2By12uzhsDi%2Fcyfow36mBR4fnYr10QmrheAui4lA%3D%3D', iv: '65bd1eacdf8cd2f184cf2d6ff9b2daaa'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: c4cf49e7... {detail: 'ovS10HvQ5KpIFLX4akUad%2Fh5rhgKFe%2B5Hf3v022iPqrbGi…BH4P%2Bo3Nmzz63sTT2eDBaKSfiQjMMDN7KvlHmp8LQ%3D%3D', iv: 'c4cf49e7dea2c0e0f28378b8b020cc15'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 4309d5a5... {detail: 'kievdORfAUCT3Qc3VK6Hsh1lmwtHO0YaKdS%2FQzw%2BVB2YsR…5qkiSJhzhJtamac%2Btl%2FCZShhJtwJbD2ruJZQNoY1Rc%3D', iv: '4309d5a57dc212abb8529de1e4a760ec'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: ceabd3a0... {detail: 'mG0qufBTSXhB%2FBJNBO9aNlWn%2BqPDE3kzVYwDvgHrDfLDK5…o7S8lRkyZ7sP5gV3eLsRhEnscTKAyNJsMolerd82QyAAf4%3D', iv: 'ceabd3a0a343443c1eeed5cea8f2e996'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: f425522a... {detail: 'NQb0XM5Sb24ckxu5k3eI3RMFeChu0iv1g2m7k%2BtFIDlrvv5H…yMMtz0dDkdtyr0ptPkngpyM75Elvw5w%2BKkU2mvEdspuWetn', iv: 'f425522a4f98669e2e1c5563d891e414'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: a9664dff... {detail: 'FQUG5otihRFBhTNS1XVI900uilnUdk6ajM1YOVOcTqiREzrSmx…FlywzAs6mXF4V%2FjwWoSGk09eeiKd2C9og69I2yOA4CZuTOQ', iv: 'a9664dff15f7697cbe62886ec71dd4ab'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: c0bf164b... {detail: 's0mY46MERDZno4SQycvxu4H49mY1UlyBgFc1uLhgOEKoqpwhzh…IweeNixIIHE9i6Fe4ih1UALOkQFrNiSO6O1GTRLtY60YIQ%3D', iv: 'c0bf164b1ae9c4b32e37290e28b56077'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 688719d2... {detail: '2iQcMv3M9Qq4SJRx4pfQItGIUhrUpMjXAM9V5%2FYSg1AMZDl4…qayH6lvM7Ik3yLnAIBjUgPbrmih8OXegrv6Ok0fkZhQyNI%3D', iv: '688719d25916a2ae09a97eee69cba45f'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 30552a93... {detail: 'MXLXiKFb2ckNNvwbqPpdXEH1l15t9WO0tJuNR4VO08JortIP%2B%2Fu0LnUsgIJ5FuxbuPg5lBJAZfElHpRdQ9uMMw%3D%3D', iv: '30552a930bef8e37add17819866a3398'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3917 (Unknown) {code: 3917, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Unknown', dataSize: 29, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3957 (Unknown) {code: 3957, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Unknown', dataSize: 173, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3122 (Unknown) {code: 3122, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Unknown', dataSize: 102, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3555 (Balance Update) {code: 3555, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Balance Update', dataSize: 2441, frequency: 2}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3513 (Bet Confirmation) {code: 3513, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Bet Confirmation', dataSize: 9053, frequency: 2}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3513 (Bet Confirmation) {code: 3513, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Bet Confirmation', dataSize: 9053, frequency: 3}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3555 (Balance Update) {code: 3555, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Balance Update', dataSize: 2441, frequency: 3}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3951 (Game Result) {code: 3951, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Game Result', dataSize: 47, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 695ccbd0... {detail: 'ItqJXd39iUxwyKUZhy7OuzPOb2zEgk10L9wqGXczJledaQxYb2ux815E0CvaJF2pWQW1oI5Hr0YWAHW8icFPwA%3D%3D', iv: '695ccbd0b99068a85af0e116292d6d5e'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3531 (Unknown) {code: 3531, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Unknown', dataSize: 29, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: bfd87b53... {detail: '1VuB2BOUDEjL0%2B78%2Bpaqiw%3D%3D', iv: 'bfd87b53654289d4f12848a371d359ea'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3925 (Unknown) {code: 3925, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Unknown', dataSize: 29, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:164 ❌ [DECRYPT FAILED] IV: bfd87b53... TypeError: Cannot read properties of undefined (reading 'length')
+    at analyzeMessage (userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:100:53)
+    at handleIncomingMessage (userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:143:38)
+handleIncomingMessage @ userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:164
+await in handleIncomingMessage
+(anonymous) @ userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:231
+c @ rocket-loader.min.js:1
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 664ea3ae... {detail: 'uhvLmYYXjXPBJPTCvhaDGa6IPqRhA6iKe5OyAFHjVP129ZKV%2…UEwYa15LLhIrKIldybWrLic7KwXMZMbrP52G7NtFssJp5s%3D', iv: '664ea3ae7ea7f4c4e6dd251a993b0ee1'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3022 (Connection Status) {code: 3022, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Connection Status', dataSize: 8785, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 3b6586a9... {detail: 'Jro84g9xzSJDpRWn7KZZb6aKZAXlulhh359d1AnTet21t6sT7586q7lcwE0JnsWW', iv: '3b6586a90b66b5398e92779b931ad0a0'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3054 (Unknown) {code: 3054, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Unknown', dataSize: 13, frequency: 1}
+css-generic.js:236 uBOL: Generic cosmetic filtering stopped because no more DOM changes
+css-generic.js:236 uBOL: Generic cosmetic filtering stopped because no more DOM changes
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:257 📈 [STATS] Messages: 53, Encrypted: 18, Success Rate: 100.0%
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 6276c4e3... {detail: '3JHnZe7DR3oT7Wj1FHuJy3jhkDqSdis7XHv%2FqOXld3jYhO1v…pfUzVsGYmGeWVrYvFHJmzhR9%2B%2FjX%2Bn41oqL3woakja8', iv: '6276c4e365ff496934f40c1f6e4a62af'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: d766606b... {detail: 'b2MYzQOwWOHHCEhI1eMVJdxzPZgN0pZutgmYH1VUqCsT4Il9hy…rUff3FpfhuAbVrtUNT1QJQRAZwkD823fWjtBuO9HXTOLvc%3D', iv: 'd766606bae9cb29562821de5a54f3781'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3513 (Bet Confirmation) {code: 3513, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Bet Confirmation', dataSize: 9053, frequency: 4}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3555 (Balance Update) {code: 3555, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Balance Update', dataSize: 2441, frequency: 4}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3013, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3013, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 045159b0... {detail: 'z6iP5%2FbJUtEHeTf%2BnY%2BinKm%2Fki0dB1CqCDQovWv75nGsvwKa0ghL%2FUsUO4c%2FbogO', iv: '045159b02557bd35fbab7ebead74ce6f'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3054 (Unknown) {code: 3054, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Unknown', dataSize: 13, frequency: 2}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:257 📈 [STATS] Messages: 92, Encrypted: 21, Success Rate: 100.0%
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 66ef199c... {detail: 'YpkwSgj1HbFROEERvWOItmdlVWyWyBpg5OXJc8UhdWssbvijlb…t%2Bl1c4CJLl2QUhFET4asI%2FCeVL4nun1aR%2FGcA%3D%3D', iv: '66ef199c2c1f3cfdd60c34523ab432a3'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 2250 (Unknown) {code: 2250, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Unknown', dataSize: 798, frequency: 1}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:257 📈 [STATS] Messages: 97, Encrypted: 22, Success Rate: 100.0%
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: e5d0397d... {detail: 'TBY3RDPbAHGxBdh2DhdU%2FJgne%2FisaPBEMh1Wc8ujHucWjn…NpVodcE%2Fc5EMPvoLxdbusOUTyQLN3M%2BOUGHf1HTsT4%3D', iv: 'e5d0397dde5a8398d70b75ba00bc935f'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:137 🔐 [ENCRYPTED DETECTED] Code: Unknown, IV: 043a2d68... {detail: '%2FrvKpUtKJOeCD6PVNmLD1J%2B12D9QtqcOX0edf1CY%2FKCx…PVATP8WoilnX4xNWAtvPJIRW2XWdw%2FgdHLNDIpEtJdk5skG', iv: '043a2d680ac74449e986e098be2770d6'}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3555 (Balance Update) {code: 3555, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Balance Update', dataSize: 2441, frequency: 5}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:145 ✅ [DECRYPTED] Code: 3513 (Bet Confirmation) {code: 3513, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:146 📊 [ANALYSIS] {messageType: 'Bet Confirmation', dataSize: 9053, frequency: 5}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3121, data: {…}}
+userscript.html?name=LuckyBird-Enhanced-WebSocket-Analyzer.user.js&id=2945ee38-4090-471c-bf0b-6a90c692dd05:168 📝 [UNENCRYPTED] {code: 3013, data: {…}}
