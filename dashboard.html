@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LuckyBird WebSocket Analyzer Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1 class="title">LuckyBird WebSocket Analyzer</h1>
+                <div class="status-indicator">
+                    <div class="status-dot" id="connectionStatus"></div>
+                    <span id="statusText">Waiting for connection...</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Statistics Panel -->
+        <section class="stats-panel">
+            <div class="stat-card">
+                <div class="stat-value" id="totalMessages">0</div>
+                <div class="stat-label">Total Messages</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="encryptedMessages">0</div>
+                <div class="stat-label">Encrypted</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="decryptionRate">0%</div>
+                <div class="stat-label">Success Rate</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="messagesPerSecond">0.0</div>
+                <div class="stat-label">Msg/Sec</div>
+            </div>
+        </section>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Sidebar -->
+            <aside class="sidebar">
+                <div class="sidebar-header">
+                    <h3>Message Log</h3>
+                    <div class="controls">
+                        <button class="btn btn-small" id="refreshBtn">Refresh</button>
+                        <button class="btn btn-small" id="clearBtn">Clear</button>
+                    </div>
+                </div>
+                <div class="message-list" id="messageList">
+                    <div class="empty-state">
+                        <p>No messages captured yet</p>
+                        <p class="empty-hint">Messages will appear here when WebSocket traffic is detected</p>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Message Detail Panel -->
+            <main class="detail-panel">
+                <div class="detail-header">
+                    <h3>Message Details</h3>
+                    <div class="detail-controls">
+                        <button class="btn btn-small" id="exportBtn">Export Data</button>
+                        <button class="btn btn-small" id="copyBtn">Copy JSON</button>
+                    </div>
+                </div>
+                <div class="detail-content" id="detailContent">
+                    <div class="welcome-message">
+                        <h4>Welcome to WebSocket Analyzer</h4>
+                        <p>This dashboard provides real-time analysis of LuckyBird's WebSocket communication.</p>
+                        <ul>
+                            <li>Messages are automatically decrypted and categorized</li>
+                            <li>Click on any message in the sidebar to view details</li>
+                            <li>Use the controls to export data or send custom messages</li>
+                        </ul>
+                    </div>
+                </div>
+            </main>
+        </div>
+
+        <!-- Message Types Panel -->
+        <section class="message-types-panel">
+            <h3>Top Message Types</h3>
+            <div class="message-types-grid" id="messageTypesGrid">
+                <div class="empty-state">
+                    <p>Message type statistics will appear here</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Custom Message Sender -->
+        <section class="sender-panel">
+            <h3>Send Custom Message</h3>
+            <div class="sender-content">
+                <div class="input-group">
+                    <label for="messageCode">Message Code:</label>
+                    <input type="number" id="messageCode" placeholder="e.g., 3120" />
+                </div>
+                <div class="input-group">
+                    <label for="messageData">Message Data (JSON):</label>
+                    <textarea id="messageData" placeholder='{"example": "data"}'></textarea>
+                </div>
+                <div class="sender-controls">
+                    <button class="btn btn-primary" id="sendBtn">Send Message</button>
+                    <button class="btn btn-secondary" id="validateBtn">Validate JSON</button>
+                </div>
+                <div class="sender-status" id="senderStatus"></div>
+            </div>
+        </section>
+    </div>
+
+    <script src="dashboard-fixed.js"></script>
+</body>
+</html>
