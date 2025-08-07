@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "LuckyBird WebSocket Research Tool",
+  "version": "2.0",
+  "description": "Advanced WebSocket traffic analyzer with filtering and research capabilities for LuckyBird",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://luckybird.io/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://luckybird.io/*"],
+      "js": ["content-improved.js"],
+      "css": ["analyzer-improved.css"],
+      "run_at": "document_start"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "LuckyBird WebSocket Research Tool"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["injected.js"],
+      "matches": ["https://luckybird.io/*"]
+    }
+  ]
+}
