@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "LuckyBird WebSocket Analyzer",
+  "version": "1.0",
+  "description": "Real-time WebSocket traffic analyzer for LuckyBird",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://luckybird.io/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://luckybird.io/*"],
+      "js": ["content.js"],
+      "css": ["analyzer.css"],
+      "run_at": "document_start"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "LuckyBird WebSocket Analyzer"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["injected.js"],
+      "matches": ["https://luckybird.io/*"]
+    }
+  ]
+}
